@@ -1,7 +1,7 @@
 ##########################################################################################################
 ## Coursera Getting and Cleaning Data Course Project
 ## 
-# tidydata.r File Description:
+# run_analysis.r File Description:
 # This script will perform the following steps on the UCI HAR Dataset downloaded from 
 #
 # https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
